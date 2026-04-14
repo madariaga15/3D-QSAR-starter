@@ -1,4 +1,4 @@
-rdkit
+rdkit-pypi
 pandas
 numpy
 scikit-learn
